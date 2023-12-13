@@ -22,3 +22,5 @@ You can click the Preview link to take a look at your changes.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
+[![](https://visitcount.itsvg.in/api?id=shahidzaman&label=ShahidZaman&color=10&icon=5&pretty=false)](https://visitcount.itsvg.in)
