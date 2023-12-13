@@ -3,7 +3,10 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working as a full stack Laravel/vue developer.<br>👯 I’m looking to collaborate on Open Source Projects.<br>🌱 I’m currently learning React js.
+🔭 I’m currently working as a full stack Laravel/vue developer.<br>🌱 I’m currently learning React js.
+<br> 💞️ I’m looking to collaborate on different projects.
+<br>📫 How to reach me?
+      using my email address you can reach to me skzaman630@gmail.com
 
 # 💻 Tech Stack:
 
