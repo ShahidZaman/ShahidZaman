@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShahidZaman
 - 👀 I’m interested in software Development.
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning React and Vue
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me?
       using my email address you can reach to me skzaman630@gmail.com
