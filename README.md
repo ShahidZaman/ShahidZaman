@@ -23,9 +23,10 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahidzaman&" alt="shahidzaman" /></p>
 
+![dist/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/shahidzaman/shahidzaman/output/github-contribution-grid-snake.svg)
+
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-![dist/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/shahidzaman/shahidzaman/output/github-contribution-grid-snake.svg)
